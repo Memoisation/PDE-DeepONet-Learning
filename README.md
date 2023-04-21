@@ -1,7 +1,7 @@
 # PDE-DeepONet-Learning
 A Deep Learning Approach to Solving PDEs: Implementing Neural Networks with Pytorch and Jax
 
-![PDE-DeepONet-Learning](UoM_badge.png)
+![PDE-DeepONet-Learning](UoM_logo_40.png)
 
 ## Project Overview
 
