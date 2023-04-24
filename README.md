@@ -1,7 +1,7 @@
 # Deep-Learning-ODE-PDE-Solvers
 ![PDE-DeepONet-Learning](UoM_logo_40.png)
 
-A Deep Learning Approach to Solving PDEs: Implementing DeepONets with Jax
+A Deep Learning Approach to Solving PDEs: Implementing DeepONets with Jax and NumPy
 
 ## Project Overview
 
