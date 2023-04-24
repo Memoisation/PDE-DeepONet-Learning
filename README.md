@@ -5,7 +5,7 @@ A Deep Learning Approach to Solving PDEs: Implementing DeepONets with Jax
 
 ## Project Overview
 
-This project is part of my undergraduate bachelor's thesis in which I explored and implemented neural networks to solve partial differential equations (PDEs). The primary focus was on the DeepONet architecture, which is a deep learning-based approach for solving PDEs. 
+This project is part of my undergraduate bachelor's thesis in which I explored and implemented neural networks to solve partial differential equations (PDEs). The primary focus was on the DeepONet architecture, which is a deep learning-based approach for learning mathematical operators. Our focus on DeepONets learning antiderivative and implicit-differential operators. 
 
 ## Supervisor
 
