@@ -9,7 +9,7 @@ This project is part of my undergraduate bachelor's thesis in which I explored a
 
 ## Supervisor
 
-**Supervised by**: [Anirbit M.](https://www.github.com/Anirbit-AI)
+**Supervised by**: [Anirbit](https://www.github.com/Anirbit-AI)
 
 ## Repository Contents
 
